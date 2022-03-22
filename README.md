@@ -1,5 +1,5 @@
 👋 Hello, I’m @suong and I'm a Talent Acquisition Executive. 
-I work a lot with developers so I want to get to know them better by digging a little deeper into technical things.
+I work a lot with developers and I want to get to know them better by digging a little deeper into technical things.
 Sooo..
 🌱 I’m currently learning HTML with support from my other half ^^
 
